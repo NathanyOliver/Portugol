@@ -1,18 +1,18 @@
 Algoritmo "Primeiro algoritmo"
-// Disciplina   : [Linguagem e LÃ³gica de ProgramaÃ§Ã£o]
+// Disciplina   : [Linguagem e Lógica de Programação]
 // Professor   : Lucas Arneiro Vieira
-// DescriÃ§Ã£o   : Aqui vocÃª descreve o que o programa faz! (funÃ§Ã£o)
+// Descrição   : Aqui você descreve o que o programa faz! (função)
 // Autor(a)    : Nathany Oliveira
 // Data atual  : 30/08/2023
 Var
-// SeÃ§Ã£o de DeclaraÃ§Ãµes das variÃ¡veis 
+// Seção de Declarações das variáveis 
 //numero:real
-// nome: caracter
+// nome: caeacter
 booleana:logico
 
 Inicio
-// SeÃ§Ã£o de Comandos, procedimento, funÃ§Ãµes, operadores, etc... 
-//escreval ("OlÃ¡, mundo!")
+// Seção de Comandos, procedimento, funções, operadores, etc... 
+//escreval ("Olá, mundo!")
 //numero<-10.5
 //escreval(numero)
 
